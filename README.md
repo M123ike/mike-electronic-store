@@ -9,12 +9,10 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | [Your Full Name] |
-| **Student ID** | [Your Student ID] |
+| **Student Name** mucyo mike
+| **Student ID** 23082/2023
 | **Course** | EWA408510 – E-Commerce And Web Application |
-| **Lecturer** | Eric Maniraguha |
-| **Academic Year** | 2025–2026, Semester II |
-| **Submission Date** | May 27, 2026 |
+
 
 ---
 
